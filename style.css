@@ -89,7 +89,7 @@
 
 .bgimage {
 
-    background-image: url('/images/bg.png');
+    background-image: url('bg.png');
     background-size: cover;
     height: 40vh;
     width: 47vw;
